@@ -1,0 +1,1 @@
+{"length": 1284, "total": {"person": 0, "car": 0, "truck": 0}, "distribution": {"person": [], "car": [], "truck": []}}
